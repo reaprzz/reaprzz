@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm [Reaper ](https://github.com/reaprZZ) 
 
 
-- 🛠 Just tryna whatever i can..
+- 🛠 Technically a Reverse Engineer so..
 - 🌱 Exploring & Learning: **Everything.**
 - 🔭 Open to collaborate on **Open Source** projects.
 - 💬 Ask me about **your problems, if i can help i'll.**
